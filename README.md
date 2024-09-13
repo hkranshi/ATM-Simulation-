@@ -1,2 +1,2 @@
 # ATM-Simulation-
-This contain basic databse operations
+This contains basic database operations.
